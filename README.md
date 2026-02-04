@@ -1,4 +1,4 @@
-# Homework 1 for CS 690 Human-Centric Machine Learning
+# Homework 1 for CS 690S AI Alignment
 
 ### Recommended: Installation Ubuntu
 First it is recommended that you install anaconda: <https://www.anaconda.com/products/distribution> a popular python distribution and software management platform.
